@@ -1,4 +1,5 @@
 # PhonePe Digital Payments Case Study [Watch_here](https://colab.research.google.com/drive/192_g4epsvA16JFA1HbhEoGRXfJrNZIeB?usp=drive_link)
+---
 Analyzed 10K+ PhonePe records, uncovering trends in transactions and regional performance through 15+ visualizations with Python (Pandas, NumPy, Matplotlib, Seaborn).
 
 ## Table of Contents
@@ -17,6 +18,7 @@ Analyzed 10K+ PhonePe records, uncovering trends in transactions and regional pe
 - [References](#The-References)
 
 ## Project Overview
+---
 The case study involves analyzing datasets provided by PhonePe to understand transaction trends, device usage patterns, and correlations with demographic data across states and districts. The project spans multiple years and quarters, providing a comprehensive view of user behavior and financial transactions in India.
 
 ### Key Highlights:
